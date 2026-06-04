@@ -1,4 +1,4 @@
-{% set version = "0.2.7" %}
+{% set version = "0.2.8" %}
 
 package:
   name: julius
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/julius/julius-{{ version }}.tar.gz
-  sha256: 3c0f5f5306d7d6016fcc95196b274cae6f07e2c9596eed314e4e7641554fbb08
+  sha256: d691e651200930affea4f6c849c26e95fec846087281ae3d1a7757eac90253d5
 
 build:
   noarch: python
